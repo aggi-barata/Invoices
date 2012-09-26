@@ -1,11 +1,17 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.14)  25 SEP 2012 13:24
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.14)  26 SEP 2012 01:16
 entering extended mode
  %&-line parsing enabled.
 **Pinto.tex
 (./Pinto.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, loaded.
+yphenation, croatian, bulgarian, ukrainian, russian, czech, slovak, danish, dut
+ch, finnish, french, basque, ngerman, german, german-x-2009-06-19, ngerman-x-20
+09-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, italian, latin, mo
+ngolian2a, mongolian, bokmal, nynorsk, romanian, irish, coptic, serbian, turkis
+h, welsh, esperanto, uppersorbian, estonian, indonesian, interlingua, icelandic
+, kurmanji, slovenian, polish, portuguese, spanish, galician, catalan, swedish,
+ loaded.
 (/usr/share/texmf-texlive/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texmf-texlive/tex/latex/base/size11.clo
@@ -158,37 +164,37 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 34--34
  []
 
 
-Overfull \hbox (16.25897pt too wide) in paragraph at lines 67--91
+Overfull \hbox (16.25897pt too wide) in paragraph at lines 66--90
  [] 
  []
 
 
-Overfull \hbox (16.02238pt too wide) in paragraph at lines 97--113
+Overfull \hbox (16.02238pt too wide) in paragraph at lines 96--112
 []|  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--127
+Underfull \hbox (badness 10000) in paragraph at lines 123--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--127
+Underfull \hbox (badness 10000) in paragraph at lines 123--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--127
+Underfull \hbox (badness 10000) in paragraph at lines 123--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--127
+Underfull \hbox (badness 10000) in paragraph at lines 123--126
 
  []
 
@@ -196,19 +202,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--127
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Pinto.aux) ) 
 Here is how much of TeX's memory you used:
- 1808 strings out of 495061
- 21182 string characters out of 1182621
- 76710 words of memory out of 3000000
- 4993 multiletter control sequences out of 15000+50000
+ 1808 strings out of 493911
+ 21182 string characters out of 1155272
+ 77676 words of memory out of 3000000
+ 5077 multiletter control sequences out of 15000+50000
  13543 words of font info for 52 fonts, out of 3000000 for 9000
- 28 hyphenation exceptions out of 8191
+ 706 hyphenation exceptions out of 8191
  27i,13n,24p,222b,297s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share
 /texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texl
 ive/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-texlive/fonts/ty
 pe1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/am
 sfonts/cm/cmr9.pfb>
-Output written on Pinto.pdf (1 page, 60522 bytes).
+Output written on Pinto.pdf (1 page, 60869 bytes).
 PDF statistics:
  22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
