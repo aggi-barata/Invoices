@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.14)  26 SEP 2012 01:15
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.14)  10 OCT 2012 00:00
 entering extended mode
  %&-line parsing enabled.
 **JCL_Quotation.tex
@@ -163,37 +163,37 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 34--34
  []
 
 
-Overfull \hbox (16.25897pt too wide) in paragraph at lines 66--90
+Overfull \hbox (16.25897pt too wide) in paragraph at lines 66--89
  [] 
  []
 
 
-Overfull \hbox (16.02238pt too wide) in paragraph at lines 96--112
+Overfull \hbox (16.02238pt too wide) in paragraph at lines 95--111
 []|  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--118
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--126
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--126
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--126
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--126
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
 
  []
 
@@ -213,7 +213,7 @@ sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/te
 xmf-texlive/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-texlive/
 fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/p
 ublic/amsfonts/cm/cmr9.pfb>
-Output written on JCL_Quotation.pdf (1 page, 61197 bytes).
+Output written on JCL_Quotation.pdf (1 page, 61375 bytes).
 PDF statistics:
  22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.14)  30 OCT 2012 19:15
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.14)  13 OCT 2012 16:43
 entering extended mode
  %&-line parsing enabled.
-**old.tex
-(./old.tex
+**Kirloskar_Brothers_Quotation.tex
+(./Kirloskar_Brothers_Quotation.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
 yphenation, loaded.
@@ -115,8 +115,13 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 )
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
-) (./old.aux)
-\openout1 = `old.aux'.
+)
+
+LaTeX Warning: Unused global option(s):
+    [a4].
+
+(./Kirloskar_Brothers_Quotation.aux)
+\openout1 = `Kirloskar_Brothers_Quotation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
@@ -157,67 +162,60 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 34--34
  [] 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 83.
-(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 83.
 
-Overfull \hbox (16.25897pt too wide) in paragraph at lines 66--93
+Overfull \hbox (16.25897pt too wide) in paragraph at lines 65--89
  [] 
  []
 
 
-Overfull \hbox (16.02238pt too wide) in paragraph at lines 99--119
+Overfull \hbox (17.08788pt too wide) in paragraph at lines 95--103
 []|  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--125
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--133
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--133
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--133
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--133
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
 
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./old.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+(./Kirloskar_Brothers_Quotation.aux) ) 
 Here is how much of TeX's memory you used:
- 1820 strings out of 495061
- 21361 string characters out of 1182621
- 77709 words of memory out of 3000000
- 5002 multiletter control sequences out of 15000+50000
- 12295 words of font info for 47 fonts, out of 3000000 for 9000
+ 1809 strings out of 495061
+ 21394 string characters out of 1182621
+ 75711 words of memory out of 3000000
+ 4994 multiletter control sequences out of 15000+50000
+ 13543 words of font info for 52 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 27i,14n,26p,220b,354s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/t
-exmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texliv
-e/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-texlive/fonts/type
-1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
-onts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy9
-.pfb>
-Output written on old.pdf (1 page, 68322 bytes).
+ 27i,13n,24p,245b,297s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmbx9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pf
+b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on Kirloskar_Brothers_Quotation.pdf (1 page, 57912 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
