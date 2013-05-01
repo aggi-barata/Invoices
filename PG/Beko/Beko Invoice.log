@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  23 APR 2013 08:59
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  1 MAY 2013 20:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Elgi_Jyoti.tex
-(./Elgi_Jyoti.tex
+**"Beko Invoice.tex"
+(./Beko Invoice.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
 rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
@@ -138,8 +138,8 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 LaTeX Warning: Unused global option(s):
     [a4].
 
-(./Elgi_Jyoti.aux)
-\openout1 = `Elgi_Jyoti.aux'.
+(./Beko Invoice.aux)
+\openout1 = `"Beko Invoice.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
@@ -230,60 +230,56 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 34--34
  []
 
 
-Overfull \hbox (0.52505pt too wide) in paragraph at lines 49--49
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--109
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--117
+Underfull \hbox (badness 10000) in paragraph at lines 119--122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--117
+Underfull \hbox (badness 10000) in paragraph at lines 119--122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--117
+Underfull \hbox (badness 10000) in paragraph at lines 119--122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--117
+Underfull \hbox (badness 10000) in paragraph at lines 119--122
 
  []
 
 [1
 
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./Elgi_Jyoti.aux) )
+(./Beko Invoice.aux) )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 39 ({)
+### simple group (level 1) entered at line 38 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  2381 strings out of 493488
- 31461 string characters out of 3141326
- 92016 words of memory out of 3000000
+ 31481 string characters out of 3141326
+ 92007 words of memory out of 3000000
  5658 multiletter control sequences out of 15000+200000
  12295 words of font info for 47 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,14n,24p,236b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,14n,24p,251b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx9.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr8.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r9.pfb>
-Output written on Elgi_Jyoti.pdf (1 page, 58045 bytes).
+/cmr10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr8.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9
+.pfb>
+Output written on "Beko Invoice.pdf" (1 page, 71400 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 28 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
